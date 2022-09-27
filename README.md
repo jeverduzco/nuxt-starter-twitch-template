@@ -1,5 +1,7 @@
 # Nuxt 3 Minimal Starter
 
+## Stream related with this repo: [https://www.twitch.tv/videos/1603122377](https://www.twitch.tv/videos/1603122377)
+
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 ## Setup
